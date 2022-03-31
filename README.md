@@ -1,0 +1,2 @@
+# imagebed
+store images
